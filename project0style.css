@@ -7,6 +7,7 @@ body
 	margin-bottom: 20px;
 	margin-left: 50px;
 	margin-right: 50px;
+
 }
 
 #container
@@ -21,7 +22,7 @@ h1
 
 table
 {
-
+	margin-left: 20px;
 }
 
 #p1
@@ -84,4 +85,25 @@ background-color:#d1d1d1;
 height:1px;
 margin-top:10px;
 margin-bottom:10px;
+}
+
+#l1
+{
+	margin-left: 50px;
+}
+
+#l2
+{
+	margin-left: 50px;
+}
+
+
+#l3
+{
+	margin-left: 75px;
+}
+
+#l4
+{
+	margin-left: 50px;
 }
