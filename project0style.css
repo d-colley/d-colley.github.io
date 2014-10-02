@@ -10,6 +10,12 @@ body
 
 }
 
+#contact
+{
+	width: 700px;
+	margin: 0 auto;
+}
+
 #container
 {
 	max-width:700px;
@@ -23,11 +29,6 @@ h1
 table
 {
 	margin-left: 20px;
-}
-
-#p1
-{
-	
 }
 
 #pic
@@ -71,20 +72,14 @@ h3
 	display: inline-block;
 }
 
-
-#skills
-{
-
-}
-
 .horizontalRule
 {
-clear:both;
-width:100%;
-background-color:#d1d1d1;
-height:1px;
-margin-top:10px;
-margin-bottom:10px;
+	clear:both;
+	width:100%;
+	background-color:#d1d1d1;
+	height:1px;
+	margin-top:10px;
+	margin-bottom:10px;
 }
 
 #l1
